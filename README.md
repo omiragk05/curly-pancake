@@ -25,50 +25,50 @@ A command-line Movie Ticket Booking System developed in **C**. The system allows
 
 ## Main Menu
 
-![Main Menu](https://github.com/user-attachments/assets/d75768af-b710-407f-95fe-b3105ce410ee)
+
 
 ---
 
 ## View Showtimes
 
-![Showtimes](https://github.com/user-attachments/assets/bf9384a9-bc93-4a60-971e-376d4b20e732)
+
 
 ---
 
 ## Seat Map
 
-![Seat Map](screenshots/seat-map.png)
+
 
 ---
-<img width="322" height="249" alt="Main Menu" src="https://github.com/user-attachments/assets/279f6e4e-636a-4922-9d59-f36e0f477ebc" />
+
 
 ## Successful Seat Booking
 
-![Booking](screenshots/booking-success.png)
+
 
 ---
 
 ## Booking Validation (Already Booked Seat)
 
-![Validation](screenshots/already-booked.png)
+
 
 ---
 
 ## Cancel Booking
 
-![Cancel Booking](screenshots/cancel-booking.png)
+
 
 ---
 
 ## Search Booking
 
-![Search Booking](screenshots/search-booking.png)
+
 
 ---
 
 ## Revenue Report
 
-![Revenue Report](screenshots/revenue-report.png)
+
 
 ---
 
