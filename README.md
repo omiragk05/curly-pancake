@@ -25,13 +25,13 @@ A command-line Movie Ticket Booking System developed in **C**. The system allows
 
 ## Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](<img width="2400" height="1600" alt="anders-jilden-cYrMQA7a3Wc-unsplash" src="https://github.com/user-attachments/assets/d75768af-b710-407f-95fe-b3105ce410ee" />)
 
 ---
 
 ## View Showtimes
 
-![Showtimes](screenshots/showtimes.png)
+![Showtimes](<img width="2400" height="1600" alt="anders-jilden-cYrMQA7a3Wc-unsplash" src="https://github.com/user-attachments/assets/bf9384a9-bc93-4a60-971e-376d4b20e732" />)
 
 ---
 
