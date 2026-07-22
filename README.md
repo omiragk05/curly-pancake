@@ -40,6 +40,7 @@ A command-line Movie Ticket Booking System developed in **C**. The system allows
 ![Seat Map](screenshots/seat-map.png)
 
 ---
+<img width="322" height="249" alt="Main Menu" src="https://github.com/user-attachments/assets/279f6e4e-636a-4922-9d59-f36e0f477ebc" />
 
 ## Successful Seat Booking
 
@@ -116,12 +117,6 @@ Windows
 
 ```bash
 booking.exe
-```
-
-Linux / macOS
-
-```bash
-./booking
 ```
 
 ---
